@@ -50,4 +50,5 @@ If my qualifications meet the requirements of any roles you are aware of, I woul
 All information provided can be verified upon request, although some details may be difficult to share due to their complexity.
 
 Warm Regards,
+
 Nikhil Chavda
