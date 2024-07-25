@@ -9,5 +9,3 @@ Additionally, I have gained experience in Digital Marketing through one of my pe
 Salary Requirement: $15,000 to above based on a role
 
 Work Requirement: Remote Position
-
-I am specifically looking for a remote role due to recent health problem.
