@@ -33,6 +33,7 @@ _Digital Marketing Project:_
 Led a self-initiated digital marketing project encompassing SEO, Google Analytics, PPC, Social Media, Quality Content Writing, Email Marketing, WordPress, and Facebook Pixel integration.
 
 Do checkout below Digital Marketing portfolio for the same.
+
 github.com/nik-chavda/Digital-Marketing
 
 _Account Management Interactions:_
