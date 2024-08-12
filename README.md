@@ -31,8 +31,8 @@ Conducted competitor feature comparisons to inform new product development.
 _Digital Marketing Project:_
 
 Led a self-initiated digital marketing project encompassing SEO, Google Analytics, PPC, Social Media, Quality Content Writing, Email Marketing, WordPress, and Facebook Pixel integration.
-Do checkout below portfolio for the same.
-github.com/nik-chavda/Digital-Marketing
+_Do checkout below portfolio for the same._
+_github.com/nik-chavda/Digital-Marketing_
 
 _Account Management Interactions:_
 
